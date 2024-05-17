@@ -2,7 +2,7 @@
 export default function App(){
   return (
     <div>
-      <h1>Igor Fraco</h1>
+      <h1>Meu App</h1>
     </div>
   )
 }
